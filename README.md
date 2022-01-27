@@ -1,5 +1,8 @@
 # tetrate
 
+Citadel (ca server) spiffe (encodes identitities in Certs) Istioldie 1.3 / Policies and Security
+https://istio.io/v1.3/docs/concepts/security/
+
 Secure Production Identity Framework for Everyone
 https://spiffe.io
 
