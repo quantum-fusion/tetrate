@@ -1,7 +1,7 @@
 # tetrate
 
 
-Book a call with Tetrate
+Book a call with Tetrate, CEO Varun, Tetrate co-founder
 https://bit.ly/3uj1Vpc
 
 Tetrate academy learning
